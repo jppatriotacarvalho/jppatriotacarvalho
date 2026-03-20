@@ -21,11 +21,10 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) 
-
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Banco de Dados](https://img.shields.io/badge/Database-%2300C7B7.svg?style=for-the-badge&logo=databricks&logoColor=white) 
 ![SQL](https://img.shields.io/badge/sql-%230074C1.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![Redes](https://img.shields.io/badge/Networking-%2300599C.svg?style=for-the-badge&logo=cisco&logoColor=white) 
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=jppatriotacarvalho&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=false)<br/> 
